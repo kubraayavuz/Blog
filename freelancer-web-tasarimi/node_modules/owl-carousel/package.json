@@ -1,0 +1,19 @@
+{
+  "name": "owl-carousel",
+  "version": "1.0.0",
+  "description": "Old own-carousel implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdexfinancing/own-carousel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdexfinancing/own-carousel/issues"
+  },
+  "homepage": "https://github.com/fdexfinancing/own-carousel#readme"
+}
